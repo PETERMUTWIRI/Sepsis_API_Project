@@ -11,9 +11,9 @@ from fastapi.responses import JSONResponse
 app = FastAPI()
 
 # Load the numerical imputer, scaler, and model
-num_imputer_filepath = "D:/2015/azubi_afrtica/ML_API_FastAPI/ML_API/numerical_imputer.joblib"
-scaler_filepath = "D:/2015/azubi_afrtica/ML_API_FastAPI/ML_API/scaler.joblib"
-model_filepath = "D:/2015/azubi_afrtica/ML_API_FastAPI/ML_API/rf_model.joblib"
+num_imputer_filepath = "joblib_files/numerical_imputer.joblib"
+scaler_filepath = "joblib_files/scaler.joblib"
+model_filepath = "joblib_files/lr_model.joblib"
 
 num_imputer = joblib.load(num_imputer_filepath)
 scaler = joblib.load(scaler_filepath)
