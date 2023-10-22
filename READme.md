@@ -95,7 +95,7 @@ To access the sepsis prediction app, you will need to be signed in to Hugging Fa
 
 1. If you don't have a Hugging Face account, you can sign up for free at [Hugging Face](https://huggingface.co/signup).
 2. After signing in, you can access the app using the following URL:
-   🤖[https://gr8testgad-1-sepsis-prediction.hf.space/docs](https://gr8testgad-1-sepsis-prediction.hf.space/docs)
+   🤖[https://petermutwiri-sepsis-api.hf.space](https://petermutwiri-sepsis-api.hf.space)
 
 Please note that you need to be signed in to Hugging Face to utilize this service. If you encounter any issues or have questions, feel free to checkout the huggingface documentation [Huggingface Documentation](https://huggingface.co/docs) for assistance.
 
